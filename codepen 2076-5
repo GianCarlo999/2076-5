@@ -1,0 +1,11 @@
+#myClock{
+  text-align:center;
+  font-size:65px;
+  color:darkgreen;
+  border-style:solid;
+}
+
+body{
+  background:red;
+  background-image:url("https://i.etsystatic.com/16388871/r/il/acc847/1463117134/il_570xN.1463117134_kuiv.jpg")
+}
